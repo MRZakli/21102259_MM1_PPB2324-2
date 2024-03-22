@@ -44,7 +44,7 @@ class MyApp extends StatelessWidget {
 
                     //Nama
                     Text(
-                      "Maulana Ryan Zakli",
+                      "Annissa Jiwanggi Poerwani",
                       style: TextStyle(
                           color: Colors.white, fontWeight: FontWeight.bold),
                     ),
@@ -91,7 +91,7 @@ class MyApp extends StatelessWidget {
                     ),
                     Row(
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                      children: [Text("Nama "), Text("Maulana Ryan Zakli")],
+                      children: [Text("Nama "), Text("Annissa Jiwanggi")],
                     ),
                     SizedBox(
                       height: 15,
